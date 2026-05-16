@@ -1,0 +1,4 @@
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+gigachat>=0.1.39
+python-dotenv>=1.0.0
